@@ -5,3 +5,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 ---
 
 Usa este post para anotar tus expectativas de la misión.
+La Cultura de un Desarrollador de Software
+---
+title: "La Cultura de un Desarrollad@r de Software.💻"
+date: 2022-04-07T11:14:21-06:00
+description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
+---
