@@ -1,4 +1,3 @@
-
 ---
 title: "La Cultura de un Desarrollad@r de Software💻"
 date: 2022-04-07T11:14:21-06:00
