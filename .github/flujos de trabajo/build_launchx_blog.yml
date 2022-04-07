@@ -1,12 +1,9 @@
 name: Build Personal Blog
 on: push
-
 jobs:
   build:
-
     name: Build and update website
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
       with:
